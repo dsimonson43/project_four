@@ -1,11 +1,13 @@
 # project_four
 
-Home Price Modeling using Redfin data
+Home Price Modeling using Redfin data. This project aims to analyze and predict home prices based on Redfin real estate data and Freddie Mac mortgage rates, visualized through Tableau.
 
-## Data Source
+## Data Sources
 
 * Data provided by Redfin, a national real estate brokerage.
 [Redfin Data-Center](https://www.redfin.com/news/data-center/)
+
+[Freddie Mac 30 year fixed rates](https://fred.stlouisfed.org/series/MORTGAGE30US)
 
 ## Tableau and Google classroom presentation links
 
