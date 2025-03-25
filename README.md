@@ -7,6 +7,7 @@ Home Price Modeling using Redfin data. This project aims to analyze and predict 
 * Data provided by Redfin, a national real estate brokerage.
 [Redfin Data-Center](https://www.redfin.com/news/data-center/)
 
+* Freddie Mac, 30-Year Fixed Rate Mortgage Average in the United States [MORTGAGE30US], retrieved from FRED, Federal Reserve Bank of St. Louis;  
 [Freddie Mac 30 year fixed rates](https://fred.stlouisfed.org/series/MORTGAGE30US)
 
 ## Tableau and Google classroom presentation links
